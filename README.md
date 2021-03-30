@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - shivenverma26@gmail.com or vermas@uscstudents.org
+Shiven Verma - shivenverma26@gmail.com or vermas@uscstudents.org
 
 Project Link: [github.com/ShivenV/Agar](https://github.com/ShivenV/Agar)
 
