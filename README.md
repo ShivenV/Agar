@@ -58,22 +58,24 @@ A General Overview:
 
 Let's go into more detail: 
 
-Step 1: Sending the image.
+### Step 1: Sending the image.
 
 ![](https://media.giphy.com/media/CwDwQjQty3RL95LUi5/giphy.gif)
 
 This is the most important part of the entire transaction between the user and the app because without this, the app will not function. There are two ways to send an image to the server, the first way is through taking a picture with the camera, and the second way is through uploading a photo on your phone. I was only able to test it by uploading it on the phone as I have to run this app on an emulator.
 
-Step 2: Processing the image. 
+### Step 2: Processing the image. 
 
 This is probably second on the list of importance as this is needed in order for the machine learning algorithm to be able to do anything. Without this, there is not a lot for the algorithm to do. From a high level, this step just involves the algorithm encoding the image, and then running a machine learning algorithm to see whether or not is matches a face. If it does match to a face, it will then continue on to checking the JSON database which simply has the names and their results, and will collect both of those.
 
-Step 3: Receiving the info.
+### Step 3: Receiving the info.
+
 ![image](https://media.giphy.com/media/Zk3msZ0Aw8097v4sJi/giphy.gif)
 
 Finally, after all the processing is done, the backend server will send back the Name and the Result to the app, which will then inform the user with an alert on what the app has made of what they have uploaded.
 
 And now, the entire process, but this time with a different face!
+
 ![image](https://media.giphy.com/media/UsnvnAaa7f5lgchzQg/giphy.gif)
 
 ### Built With
@@ -95,19 +97,4 @@ Your Name - shivenverma26@gmail.com or vermas@uscstudents.org
 
 Project Link: [github.com/ShivenV/Agar](https://github.com/ShivenV/Agar)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/app.png
