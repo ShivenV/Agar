@@ -26,6 +26,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#more-details">More Details</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -39,27 +40,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ShivenV/Agar)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+2.6 million. That is the number of people who have died from the worldwide virus known as COVID-19 or more commonly known as Coronavirus. This virus has been deadly, no doubt about that. It started in February of 2020, and most people thought that it would have ended by the summer, or at the most by August. And yet, here we are, over a year later, still dealing with the same virus, with little difference in how many people are being infected. This is why I have created Agar, and I think it is one of the best way to stop the spread of COVID.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* It can be easily installed on any device since it is built using the cross platform tech known as React Native.
+* Extremely User Friendly and Intuitive Interface.
+* Can spice up an otherwise boring process of checking for COVID :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Of course, no one app can completely solve the entire issue, but if I can make an app that can help solve a majority of the problems, then I would consider that as a success.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+## More Details
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+* [React Native](https://reactnative.dev/)
+* [Python](https://www.python.org/)
 
 <!-- LICENSE -->
 ## License
