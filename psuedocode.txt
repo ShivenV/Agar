@@ -1,0 +1,17 @@
+def face_rec(file):
+    """
+    Return name for a known face, otherwise return 'Unknown'.
+    """
+    for name, known_file in known_faces:
+        if there is a face in the known faces:
+            for the data:
+                if there is a name that matches the face:
+                    print the name
+                    result = their covid result
+                    name = their name
+                    results = {'name':name,'result':result}
+                    return results to the api
+                else:
+                    # Print the message if the value does not exist
+                    print("%s is not found in JSON data" %name)
+    return 'Unknown' 
