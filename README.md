@@ -58,7 +58,7 @@ This not only will save a lot of time for the people running the stores, but can
 ## More Details
 
 A General Overview: 
-![image](https://user-images.githubusercontent.com/53873526/113066072-e7c51f00-9187-11eb-913b-3c50a87b13a4.png)
+![image](https://user-images.githubusercontent.com/53873526/113075873-d38b1d00-919b-11eb-86df-80169dfb9c87.png)
 
 Let's go into more detail: 
 
