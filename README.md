@@ -70,13 +70,13 @@ This is probably second on the list of importance as this is needed in order for
 
 ### Step 3: Receiving the info.
 
-![image](https://media.giphy.com/media/Zk3msZ0Aw8097v4sJi/giphy.gif)
+![image](https://media.giphy.com/media/z3nuOg1hrMNHs3LNXf/giphy.gif)
 
 Finally, after all the processing is done, the backend server will send back the Name and the Result to the app, which will then inform the user with an alert on what the app has made of what they have uploaded.
 
-And now, the entire process, but this time with a different face!
+### And now, the entire process, but this time with a different face!
 
-![image](https://media.giphy.com/media/UsnvnAaa7f5lgchzQg/giphy.gif)
+![image](https://media.giphy.com/media/vr9wm7E1hBaiy3zwax/giphy.gif)
 
 ### Built With
 
