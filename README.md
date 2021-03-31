@@ -8,7 +8,7 @@
   <h3 align="center">Agar</h3>
 
   <p align="center">
-    A simply way for people to check if they have COVID-19
+    A simpler way
     <br />
     <br />
     <a href="https://github.com/ShivenV/Agar/issues">Report Bug</a>
@@ -53,9 +53,7 @@ In all seriousness, this app has a very real world use case. Let's take the exam
 
 On the flip side, if you use Agar, you can easily upload an image of the customer that is entering the store and instantly get a notification on whether or not they have had a recent positive COVID-19 test. If so, you can politely ask them to leave, and if they don't have the virus, then they can continue shopping.
 
-This not only will save a lot of time for the people running the stores, but can also save time for the people that are running the position of checking people at the door as they can just use an app instead of an entire digital thermometer.
-
-Of course, no one app can completely solve the entire issue, but if I can make an app that can help solve a majority of the problems, then I would consider that as a success.
+This not only will save a lot of time for the people running the stores, but can also save time for the people that are running the position of checking people at the door.
 
 ## More Details
 
