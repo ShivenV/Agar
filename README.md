@@ -60,7 +60,7 @@ Let's go into more detail:
 
 ### Step 1: Sending the image.
 
-![](https://media.giphy.com/media/CwDwQjQty3RL95LUi5/giphy.gif)
+![](https://media.giphy.com/media/jLnNOJTVf2wtqZmwVC/giphy.gif)
 
 This is the most important part of the entire transaction between the user and the app because without this, the app will not function. There are two ways to send an image to the server, the first way is through taking a picture with the camera, and the second way is through uploading a photo on your phone. I was only able to test it by uploading it on the phone as I have to run this app on an emulator.
 
