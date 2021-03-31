@@ -49,6 +49,12 @@ Here's why:
 * Extremely User Friendly and Intuitive Interface.
 * Can spice up an otherwise boring process of checking for COVID :smile:
 
+In all seriousness, this app has a very real world use case. Let's take the example that you run a local groccery store and you want to make sure that the people who enter your store have not returned a postive test result recently. A common way to do this would be to check their temperature, but as we know, symptoms show up AFTER someone who has gotten the virus, so at that point it isn't really helpful. 
+
+On the flip side, if you use Agar, you can easily upload an image of the customer that is entering the store and instantly get a notification on whether or not they have had a recent positive COVID-19 test. If so, you can politely ask them to leave, and if they don't have the virus, then they can continue shopping.
+
+This not only will save a lot of time for the people running the stores, but can also save time for the people that are running the position of checking people at the door as they can just use an app instead of an entire digital thermometer.
+
 Of course, no one app can completely solve the entire issue, but if I can make an app that can help solve a majority of the problems, then I would consider that as a success.
 
 ## More Details
