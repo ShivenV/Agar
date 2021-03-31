@@ -8,7 +8,7 @@
   <h3 align="center">Agar</h3>
 
   <p align="center">
-    A simply way for people to check if they have COVID-19*
+    A simply way for people to check if they have COVID-19
     <br />
     <br />
     <a href="https://github.com/ShivenV/Agar/issues">Report Bug</a>
@@ -96,7 +96,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Shiven Verma - shivenverma26@gmail.com or vermas@uscstudents.org
 
 Project Link: [github.com/ShivenV/Agar](https://github.com/ShivenV/Agar)
-
-*does not run a physical covid test on the user
 
 [product-screenshot]: images/app.png
