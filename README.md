@@ -97,7 +97,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 <!-- CONTACT -->
 ## Contact
 
-Shiven Verma - shivenverma26@gmail.com or vermas@uscstudents.org
+Shiven Verma - shivenverma26@gmail.com
 
 Project Link: [github.com/ShivenV/Agar](https://github.com/ShivenV/Agar)
 
